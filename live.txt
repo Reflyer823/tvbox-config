@@ -1,4 +1,4 @@
-﻿江苏移动GITV,#genre#
+﻿江苏移动IPTV,#genre#
 
 CCTV-1综合,http://183.207.248.71:80/cntv/live1/CCTV-1/cctv-1
 CCTV-2财经,http://183.207.248.71:80/cntv/live1/CCTV-2/cctv-2
