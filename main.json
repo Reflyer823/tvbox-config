@@ -4,7 +4,7 @@
 //"spider":"https://download.kstore.space/download/2863/xs.jar;md5;63f37c0dc42fa60dcc675927b0a9072a",
 "spider":"https://download.kstore.space/download/2863/ggtv.jar;md5;fc546c735827e5b3c2dfe91bfbe64350",
 "lives":[{"name":"直播","type":0,"url":"https://cdn.jsdelivr.net/gh/Reflyer823/tvbox-config@master/live.txt"}],
-// "lives":[{"name":"直播","type":0,"epg":"http://epg.51zmt.top:8000/api/diyp/","url":"https://download.kstore.space/download/2863/live.txt"}],
+//"lives":[{"name":"直播","type":0,"epg":"http://epg.51zmt.top:8000/api/diyp/","url":"https://download.kstore.space/download/2863/live.txt"}],
 //"lives":[{"name":"直播1","type":0,"url":"http://home.jundie.top:81/Cat/tv/live.txt"}],
 //"lives":[{"name":"直播(道长)","type":0,"url":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/base/直播.txt"}],
 //"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9kb3dubG9hZC5rc3RvcmUuc3BhY2UvZG93bmxvYWQvMjg2My9saXZlLnR4dA=="]}]}],
@@ -18,7 +18,8 @@
 "wallpaper":"https://api.lr-jia.cn/api/dnmm",
 //https://tuapi.eees.cc/api.php?category=fengjing&type=302
 "sites": [
-{"key":"潇洒空间","name":"潇洒空间cnvip.x10.mx/wp","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://download.kstore.space/download/2863/xpath/哔哩.json","jar":"https://download.kstore.space/download/2863/Bili.jar;md5;c5c337bb2793598e9aa5953898fbb087"},
+{"key":"潇洒空间","name":"🏡潇洒空间","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://download.kstore.space/download/2863/xpath/哔哩.json","jar":"https://download.kstore.space/download/2863/Bili.jar;md5;c5c337bb2793598e9aa5953898fbb087"},
+{"key":"drpy_js_drpy","name":"🤖潇洒推荐","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/drpy.js"},
 {"key":"AList","name":"🍰AList","type":3,"api":"csp_AList","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://cdn.jsdelivr.net/gh/SCXSVIP/TV@main/Alist_XS.json","jar":"https://la.kstore.space/download/2863/FM.jar;md5;e889b257fb9dbaf519f3c095231c12ea"},
 {"key":"Alist_DR","name":"🎑Alist DR","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/alist.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/txt/json/alist.json;50;video"}, 
 {"key":"drpy_Alist","name":"🍂‍AlistDRPY","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/alist.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cdn.jsdelivr.net/gh/yxcqr/TVboxo@main/Bili/alist_drpy.json"},
@@ -36,9 +37,32 @@
 {"key":"百影视频","name":"🀪百影视频","type":3,"api":"csp_MianHua","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"ext":"http://47.104.99.175","jar":"https://la.kstore.space/download/2863/FXZ.jar;md5;6a92e85399922ff0fd7813bbc2f09957"},
 
 //js源=======================================================================================================
+
+
+
+
+{"key":"drpy_js_厂长资源","name":"🚔厂长资源","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/厂长资源.js"},
 {"key":"drpy_js_在线之家","name":"🖨在线之家","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/在线之家.js"},
 {"key":"drpy_js_大师兄影视","name":" 🧙‍大师兄影视","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/大师兄影视.js"},
 {"key":"drpy_js_凌云影视","name":" ☁凌云影视","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/凌云影视.js"},
+{"key":"drpy_js_NFM影视","name":"🎞NFM影视","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/NFM影视.js"},
+{"key":"drpy_js_伊雪湾","name":"🏂️伊雪湾","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/伊雪湾.js"},
+{"key":"drpy_js_神马影视","name":"🐴神马影视","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/神马影视.js"},
+{"key":"drpy_js_爱看","name":"💞爱看","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/爱看.js"},
+{"key":"drpy_js_Nike影视","name":"🚢Nike影视","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/Nike影视.js"},
+{"key":"drpy_js_看韩剧","name":"🌽看韩剧","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/看韩剧.js"},
+{"key":"drpy_js_大豆","name":"🥔大豆","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/大豆.js"},
+{"key":"drpy_js_爱弹幕","name":"💣︎爱弹幕","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/爱弹幕.js"},
+{"key": "drpy_js_腾云驾雾","name": "🌁腾云驾雾","type": 3,"api": "https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext": "https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/腾云驾雾.js"},
+{"key":"drpy_js_优酷","name":"🏎️酷酷","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/优酷.js"},
+{"key":"drpy_js_百忙无果","name":"🥭百忙无果","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/百忙无果.js"},
+{"key":"drpy_js_菜狗","name":"🐶菜狗","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/菜狗.js"},
+{"key":"drpy_js_奇珍异兽","name":"🦄奇珍异兽","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/奇珍异兽.js"},
+{"key":"drpy_js_小狗影院","name":"🐕️小狗影院","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/小狗影院.js"},
+{"key":"drpy_js_免费看","name":"🆓免费看","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/免费看.js"},
+{"key":"drpy_js_路漫漫","name":"🚞路漫漫","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/路漫漫.js"},
+
+
 {"key":"drpy_js_孜然影视","name":" 🥩孜然影视","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/孜然影视.js"},
 {"key":"drpy_js_起飞影院","name":"🛩︎起飞影院","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/起飞影院.js"},
 {"key":"drpy_js_zxzjmtv","name":"🥭zxzjmtv","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/zxzjmtv.js"},
@@ -83,7 +107,6 @@
 {"key":"drpy_js_金曼影视","name":"🌷金曼影视","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/金曼影视.js"},
 {"key":"drpy_js_云镜影视","name":"🔍云镜影视","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/云镜影视.js"},
 {"key":"drpy_js_时光影视","name":"🏙时光影视","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/时光影视.js"},
-{"key":"drpy_js_爱弹幕","name":"💣︎爱弹幕","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/爱弹幕.js"},
 {"key":"drpy_js_歪片星球","name":"🪐歪片星球","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/歪片星球.js"},
 {"key":"drpy_js_豆芽影院","name":"🧆豆芽影院","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/豆芽影院.js"},
 {"key":"drpy_js_映迷影院","name":"📽️映迷影院","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/映迷影院.js"},
@@ -141,19 +164,16 @@
 {"key":"drpy_js_骚火电影","name":"🔥骚火电影","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/heroaku/TVboxo@main/Js/骚火电影.js"},
 {"key":"drpy_js_Auete","name":"👽︎Auete","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/heroaku/TVboxo@main/Js/Auete.js"},
 {"key":"drpy_js_九酷影视","name":"🤠九酷影视","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/heroaku/TVboxo@main/Js/九酷影视.js"},
-{"key": "drpy_js_腾云驾雾","name": "🌁腾云驾雾","type": 3,"api": "https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext": "https://cdn.jsdelivr.net/gh/heroaku/TVboxo@main/Js/腾云驾雾.js"},
 {"key":"drpy_js_兰花影院","name":"🥦兰花影院","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/heroaku/TVboxo@main/Js/兰花影院.js"},
 {"key":"drpy_js_奇米动漫","name":"🍘奇米动漫","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/heroaku/TVboxo@main/Js/奇米动漫.js"},
 
 {"key":"drpy_js_美剧网","name":"🎭️美剧网","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/heroaku/TVboxo@main/Js/美剧网.js"},
 {"key":"drpy_js_诺讯影视","name":"📟︎诺讯影视","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/heroaku/TVboxo@main/Js/诺讯影视.js"},
-{"key":"drpy_js_NFM影视","name":"🎞NFM影视","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/heroaku/TVboxo@main/Js/NFM影视.js"},
 {"key":"drpy_js_YOKE影视","name":"📹︎YOKE影视","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/heroaku/TVboxo@main/Js/YOKE影视.js"},
 {"key":"drpy_js_城市影视","name":"🏙城市影视","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/heroaku/TVboxo@main/Js/城市影视.js"},
 {"key":"drpy_js_看一看影视","name":"👁️看一看影视","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/heroaku/TVboxo@main/Js/看一看影视.js"},
 {"key":"drpy_js_土狗影院","name":"🐕土狗影院","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/heroaku/TVboxo@main/Js/土狗影院.js"},
 {"key":"drpy_js_乐猪TV","name":"🐷乐猪TV","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/heroaku/TVboxo@main/Js/乐猪TV.js"},
-{"key":"drpy_js_神马影视","name":"🐴神马影视","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/heroaku/TVboxo@main/Js/神马影视.js"},
 {"key":"drpy_js_雅克坊","name":"💍雅克坊","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/heroaku/TVboxo@main/Js/雅克坊.js"},
 {"key":"drpy_js_新思古影院","name":"📽️新思古影院","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/heroaku/TVboxo@main/Js/新思古影院.js"},
 {"key":"drpy_js_枫林网","name":"🍁枫林网","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/heroaku/TVboxo@main/Js/枫林网.js"},
@@ -185,7 +205,6 @@
 {"key":"drpy_js_在线之家Ⅱ","name":"🎖在线之家Ⅱ","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/heroaku/TVboxo@main/Js/在线之家Ⅱ.js"},
 {"key":"drpy_js_剧荒","name":"🎖剧荒","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/heroaku/TVboxo@main/Js/剧荒.js"},
 {"key":"drpy_js_剧迷","name":"🎖剧迷","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/heroaku/TVboxo@main/Js/剧迷.js"},
-{"key":"drpy_js_drpy","name":"🎖‍drpy","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/heroaku/TVboxo@main/Js/drpy.js"},
 {"key":"drpy_js_天天开心","name":"🎖‍天天开心","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/heroaku/TVboxo@main/Js/18av.js"},
 {"key":"drpy_js_Missav","name":"🎖‍Missav","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/heroaku/TVboxo@main/Js/Missav.js"},
 {"key":"drpy_js_banan","name":"🎖‍banan","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/heroaku/TVboxo@main/Js/banan.js"},
@@ -240,9 +259,7 @@
 {"key":"drpy_js_爱猫影院","name":"🎖爱猫影院","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/heroaku/TVboxo@main/Js/爱猫影院.js"},
 {"key":"drpy_js_猫影汇","name":"🎖猫影汇","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/heroaku/TVboxo@main/Js/猫影汇.js"},
 {"key":"drpy_js_超前点播","name":"🎖超前点播","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/heroaku/TVboxo@main/Js/超前点播.js"},
-
 {"key":"drpy_js_天空影视","name":"🕵‍天空影视🕵","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/heroaku/TVboxo@main/Js/天空影视.js"},
-{"key":"drpy_js_厂长资源","name":"🕵‍厂长资源🕵","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/heroaku/TVboxo@main/Js/厂长资源.js"},
 {"key":"drpy_js_快看","name":"🕵快看🕵","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/heroaku/TVboxo@main/Js/快看.js"},
 {"key":"drpy_js_360影视","name":"🕵360影视🕵","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/heroaku/TVboxo@main/Js/360影视.js"},
 {"key": "drpy_js_真不卡","name": "🕵真不卡🕵","type": 3,"api": "https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext": "https://cdn.jsdelivr.net/gh/heroaku/TVboxo@main/Js/真不卡.js"},
@@ -266,13 +283,6 @@
       "ext": "https://cdn.jsdelivr.net/gh/heroaku/TVboxo@main/Js/cokemv.js"
     },
     {
-      "key": "drpy_js_drpy",
-      "name": "🕵drpy🕵",
-      "type": 3,
-      "api": "https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js",
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/dr/drpy.js"
-    },
-    {
       "key": "drpy_js_LIBVIO",
       "name": "🕵LIBVIO🕵",
       "type": 3,
@@ -285,20 +295,6 @@
       "type": 3,
       "api": "https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js",
       "ext": "https://cdn.jsdelivr.net/gh/heroaku/TVboxo@main/Js/vip影院.js"
-    },
-    {
-      "key": "drpy_js_百忙无果",
-      "name": "🕵百忙无果🕵",
-      "type": 3,
-      "api": "https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js",
-      "ext": "https://cdn.jsdelivr.net/gh/heroaku/TVboxo@main/Js/百忙无果.js"
-    },
-    {
-      "key": "drpy_js_菜狗",
-      "name": "🕵菜狗🕵",
-      "type": 3,
-      "api": "https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js",
-      "ext": "https://cdn.jsdelivr.net/gh/heroaku/TVboxo@main/Js/菜狗.js"
     },
 {"key": "drpy_js_大米星球","name": "🕵大米星球🕵","type": 3,"api": "https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext": "https://cdn.jsdelivr.net/gh/heroaku/TVboxo@main/Js/大米星球.js"},
     {
@@ -379,13 +375,6 @@
       "ext": "https://cdn.jsdelivr.net/gh/heroaku/TVboxo@main/Js/牛马TV.js"
     },
     {
-      "key": "drpy_js_奇珍异兽",
-      "name": "🕵奇珍异兽🕵",
-      "type": 3,
-      "api": "https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js",
-      "ext": "https://cdn.jsdelivr.net/gh/heroaku/TVboxo@main/Js/奇珍异兽.js"
-    },
-    {
       "key": "drpy_js_人人影视",
       "name": "🕵人人影视🕵",
       "type": 3,
@@ -440,13 +429,6 @@
       "type": 3,
       "api": "https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js",
       "ext": "https://cdn.jsdelivr.net/gh/heroaku/TVboxo@main/Js/影视工厂.js"
-    },
-    {
-      "key": "drpy_js_优酷",
-      "name": "🕵优酷🕵",
-      "type": 3,
-      "api": "https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js",
-      "ext": "https://cdn.jsdelivr.net/gh/heroaku/TVboxo@main/Js/优酷.js"
     },
     {
       "key": "drpy_js_追剧喵",
@@ -1170,6 +1152,8 @@
 {"name":"很牛逼","type":1,"url":"http://rxjx.kuanjv.com/allm3u8.php?url="},
 {"name":"吾爱1","type":1,"url":"https://chaloli.cn/api/?key=085f2fe3b06c071c4aa2f886d7a6b200&url="},
 {"name":"潇洒云友","type":1,"url":"https://chaloli.cn/api/?key=c429332d87fbfb1dc99042c5a77dcddc&url="},
+{"name":"M1907","type":1,"url":"https://z1.m1907.top/?jx="},
+{"name": "云解析0","type": 1,"url": "https://www.jiexila.com/?url="},
 {"name":"扶风","type":1,"url":"https://www.1920lgzy.top/json.php?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
 {"name":"ckflv","type":1,"url":"http://api.ckflv.cn/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","CL4K","renrenmi","ltnb","bilibili","1905","xigua"]}},
 {"name":"酷享影视","type":1,"url":"http://pandown.pro/app/kxjx.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","CL4K","renrenmi","ltnb","bilibili","1905","xigua"]}},
@@ -1188,6 +1172,7 @@
 {"name":"快伍web","type":1,"url":"https://freejx.rx88.top:1234/?url="},
 {"name":"全网通","type":1,"url":"http://jx.nikucms.com/pc/index6.php?url="},
 {"name":"钢铁侠","type":1,"url":"https://json.freejx.in/?url="},
+{"name": "无名小站","type": 1,"url": "https://www.administratorw.com/index/qqvod.php?url="},
 {"name":"道长万能","type":1,"url":"https://json.legendwhb.cn/llq/?url="},
 {"name":"道长刚刚","type":1,"url":"https://play.fuqizhishi.com/jx2/API.php?appkey=iiiixiaobai&url="},
 {"name":"道长江湖","type":1,"url":"http://45.248.10.163:4433/json.php?wap=0&url="},
@@ -1205,7 +1190,12 @@
 {"name": "ts2","type": 1,"url": "https://parse.ikunfk.cc/parse/sign/812a0f3b8a7ae9dbf90f3d7fac9c8cbc?url=","ext": {"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header": {"User-Agent": "okhttp/4.1.0"}}},
 {"name":"爱酷嗅探","type":0,"url":"https://jx.zhanlangbu.com/?url="},
 {"name":"椰子解析","type":0,"url":"http://jx.gbxy.net.cn/?url="},
-
+{"name": "playerjy/B站","type": 1,"url": "https://jx.playerjy.com/?url="},
+{"name": "云解析","type": 1,"url": "https://jx.aidouer.net/?url="},
+{"name":"M3U8.TV","type":1,"url":"https://jx.m3u8.tv/jiexi/?url="},
+{"name":"云加速","type":1,"url":"https://z1.im1907.top/?jx="},
+{"name": "H8","type": 1,"url": "https://www.h8jx.com/jiexi.php?url="},
+{"name": "180","type": 1,"url": "https://jx.000180.top/jx/?url="},
 //======================================================================================================={"name":"1号线","type":1,"url":"https://parse.ikunfk.cc/parse/sign/8698eafb816d87f28262c8e280c71078?url=","header":{"User-Agent":"Mozilla/5.0"}},
 {"name":"3号线","type":1,"url":"https://jx.4kdv.com/?url="},
 {"name":"7号线","type":1,"url":"http://www.pandown.pro/app/tkys/tkysjx.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","rx","ltnb","bilibili","1905","xigua"]}},
@@ -1218,7 +1208,6 @@
 {"name": "云解析","type": 1,"url": "https://jx.ppflv.com/?url="},
 {"name":"爱酷看看","type":1,"url":"https://www.ikukk.com/?url="},
 {"name":"cd解析","type":1,"url":"https://vip.26db.cn/a/?url="},
-{"name":"zn","type":1,"url":"https://svip.znjson.com/api/?key=gX8j9IPvoQ5mFmlIzu&url="},
 //{"name":"GGTV搜集","type":1,"url":"https://play.fuqizhishi.com/juhe/API.php?appkey=caijijuhe220902&url="},
 {"name":"插萝莉慢","type":1,"url":"http://chaloli.cn/home/api?type=ys&uid=1&key=ekloswzABCGHKLOT58&url="},
 {"name":"江湖解析","type":1,"url":"http://jx.vipmv.co/?url="},
@@ -1230,16 +1219,14 @@
 {"name":"4433解析","type":1,"url":"https://jx.bozrc.com:4433/player/?url="},
 {"name": "8090","type": 1,"url": "https://www.8090g.cn/?url="},
 {"name": "万能","type": 1,"url": "https://json.legendwhb.cn/llq/?url="},
-{"name":"M3U8.TV","type":1,"url":"https://jx.m3u8.tv/jiexi/?url="},
 {"name": "CK","type": 1,"url": "https://www.ckplayer.vip/jiexi/?url="},
 {"name":"BL解析","type":1,"url":"https://svip.bljiex.cc/?v="},
-{"name":"无名小站","type":1,"url":"http://www.82190555.com/index/qqvod.php?url="},
+{"name":"无名小站1","type":1,"url":"http://www.82190555.com/index/qqvod.php?url="},
 {"name":"尊享","type":1,"url":"https://player.maqq.cn/?url="},
 {"name":"全网","type":1,"url":"https://jx.elwtc.com/vip/?url="},
 {"name":"全网解析","type":1,"url":"https://vip.laobandq.com/jiexi.php?url="},
 {"name": "ckmov","type": 1,"url": "https://www.ckmov.vip/api.php?url="},
 {"name": "RDHK","type": 1,"url": "https://jx.rdhk.net/?v="},
-{"name": "H8","type": 1,"url": "https://www.h8jx.com/jiexi.php?url="},
 {"name": "解析啦","type": 1,"url": "https://api.jiexi.la/?url="},
 {"name": "MUTV","type": 1,"url": "https://jiexi.janan.net/jiexi/?url="},
 {"name": "OK解析","type": 1,"url": "https://okjx.cc/?url="},
@@ -1248,10 +1235,7 @@
 {"name":"汪汪","type":1,"url":"https://55o.co/?url="},
 {"name":"汪汪1","type":1,"url":"https://55o.co/dsp.php?url="},
 {"name": "ivito","type": 1,"url": "http://jx.ivito.cn/?url="},
-{"name":"懒懒1","type":1,"url":"http://123.57.56.94:9931/lanlan/?url="},
-{"name":"懒懒2","type":1,"url":"http://lanlan.ckflv.cn/?url=","ext":{"flag":["qiyi","qq","letv","sohu","youku","mgtv","bilibili","wasu","xigua","1905"]}},
 {"name":"萝卜","type":1,"url":"https://ys.lbbb.cc/?url="},
-{"name": "云解析","type": 1,"url": "https://jx.aidouer.net/?url="},
 {"name":"夜幕","type":1,"url":"https://www.yemu.xyz/?url="},
 {"name":"尘烟","type":1,"url":"https://vip.xuux.icu/home/api?type=ys&uid=5593023&key=efhilopruvCMPTZ138&url="},
 {"name":"绿叶","type":1,"url":"https://hc.izny.cn/json.php?url="},
@@ -1292,7 +1276,6 @@
 {"name":"⑧秒播","type":1,"url":"https://jie.1z1.cc/api/?key=HdMmTMfyf1uTOQUL0b&url="},
 {"name":"随便1","type":1,"url":"http://cl.yjhan.com:8090/home/api?type=ys&uid=821518&key=aghlmnyBFIJMPRX489&url="},
 {"name":"随便2","type":1,"url":"https://www.nfjx.xyz/home/api?type=ys&uid=5767995&key=ijkmovxDEHIJPQRW69&url="},
-{"name":"ok1","type":0,"url":"https://okjx.cc/?url="},
 {"name":"ok2","type":0,"url":"https://api.okjx.cc:3389/jx.php?url="},
 {"name":"☑快速直解1","type":1,"url":"https://play.fuqizhishi.com/gang/API.php?appkey=QQ172598364&url="},
 {"name":"☑云友解析","type":1,"url":"https://chaloli.cn/home/api?type=ys&uid=1&key=dfgilnotuyDGHMQW34&url="},
@@ -1340,7 +1323,6 @@
 {"name": "冰豆","type": 1,"url": "https://api.qianqi.net/vip/?url="},
 {"name": "游艺","type": 1,"url": "https://api.u1o.net/?url="},
 {"name": "LE","type": 1,"url": "https://lecurl.cn/?url="},
-{"name": "playerjy/B站","type": 1,"url": "https://jx.playerjy.com/?url="},
 {"name": "ccyjjd","type": 1,"url": "https://ckmov.ccyjjd.com/ckmov/?url="},
 {"name": "诺诺","type": 1,"url": "https://www.ckmov.com/?url="},
 {"name": "BL","type": 1,"url": "https://vip.bljiex.com/?v="},
@@ -1363,9 +1345,7 @@
 {"name": "豪华啦","type": 1,"url": "https://api.lhh.la/vip/?url="},
 {"name": "凉城","type": 1,"url": "https://jx.mw0.cc/?url="},
 {"name": "33t","type": 1,"url": "https://www.33tn.cn/?url="},
-{"name": "180","type": 1,"url": "https://jx.000180.top/jx/?url="},
 {"name": "无名","type": 1,"url": "https://www.administratorw.com/video.php?url="},
-{"name": "无名小站","type": 1,"url": "https://www.administratorw.com/admin.php?url="},
 {"name": "黑云","type": 1,"url": "https://jiexi.380k.com/?url="},
 {"name": "九八","type": 1,"url": "https://jx.youyitv.com/?url="},
 {"name":"hfyrw","type":1,"url":"https://json.hfyrw.com/mao.go?url=","ext":{"flag":["ltnb","renrenmi"]}},
