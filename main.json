@@ -40,12 +40,15 @@
 
 {"key":"drpy_js_厂长资源","name":"🚔厂长资源","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/厂长资源.js"},
 {"key":"drpy_js_在线之家","name":"🖨在线之家","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/在线之家.js"},
+{"key":"drpy_js_天空影视","name":"✈️天空影视","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/天空影视.js"},
+{"key":"drpy_js_饭团影视","name":"🍚饭团影视","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/饭团影视.js"},
+{"key":"drpy_js_孜然影视","name":"🥩孜然影视","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/孜然影视.js"},
 {"key":"drpy_js_大师兄影视","name":"🧙‍大师兄影视","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/大师兄影视.js"},
 {"key":"drpy_js_无名小站","name":"🏝︎‍无名小站","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/无名小站.js"},
 {"key":"drpy_js_B站影视","name":"🚏B站影视","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/B站影视.js"},
 {"key":"drpy_js_胖虎","name":"🐅胖虎","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/胖虎.js"},
 {"key":"drpy_js_两个BT","name":"🀗两个BT","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/两个BT.js"},
-{"key":"drpy_js_天空影视","name":"✈️天空影视","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/天空影视.js"},
+
 {"key":"drpy_js_真不卡","name":"🗃真不卡","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/真不卡.js"},
 {"key":"drpy_js_荐片","name":"🌊荐片","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/荐片.js"},
 {"key":"drpy_js_骚火","name":"🔥骚火","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/骚火.js"},
@@ -66,11 +69,13 @@
 {"key":"drpy_js_热播库","name":"📽️热播库","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/热播库.js"},
 {"key":"drpy_js_万能影视","name":"💊‍万能影视","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/万能影视.js"},
 
+{"key":"drpy_js_网易公版影像","name":"🕸️网易公版影像","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/网易公版影像.js"},
 {"key": "drpy_js_腾云驾雾","name": "🌁腾云驾雾","type": 3,"api": "https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext": "https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/腾云驾雾.js"},
 {"key":"drpy_js_优酷","name":"🏎️酷酷","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/优酷.js"},
 {"key":"drpy_js_百忙无果","name":"🥭百忙无果","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/百忙无果.js"},
 {"key":"drpy_js_菜狗","name":"🐶菜狗","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/菜狗.js"},
 {"key":"drpy_js_奇珍异兽","name":"🦄奇珍异兽","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/奇珍异兽.js"},
+{"key":"drpy_js_素白白","name":"🥬素白白","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/素白白.js"},
 {"key":"drpy_js_LIBVIO","name":"💈LIBVIO","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/LIBVIO.js"},
 {"key":"drpy_js_小狗影院","name":"🐕️小狗影院","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/小狗影院.js"},
 {"key":"drpy_js_免费看","name":"🆓免费看","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/免费看.js"},
@@ -81,13 +86,23 @@
 {"key":"drpy_js_回响影视","name":"🎃回响影视","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/回响影视.js"},
 {"key":"drpy_js_城市电影","name":"🏙城市电影","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/城市电影.js"},
 {"key":"drpy_js_AnFuns","name":"⚔AnFuns","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/AnFuns.js"},
+
+//动漫源
 {"key":"drpy_js_奇米动漫","name":"🍘奇米动漫","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/奇米动漫.js"},
 {"key":"drpy_js_妮可动漫","name":"🩹妮可动漫","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/妮可动漫.js"},
 {"key":"drpy_js_NT动漫","name":"💆🏾‍NT动漫","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/NT动漫.js"},
+{"key":"drpy_js_曲奇动漫","name":"🍪曲奇动漫","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/曲奇动漫.js"},
+{"key":"drpy_js_动漫岛","name":"🚙动漫岛","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/动漫岛.js"},
+{"key":"drpy_js_嘶哩嘶哩","name":"🥵嘶哩嘶哩","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/嘶哩嘶哩.js"},
 {"key":"drpy_js_海外看影院","name":"🌊海外看影院","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/海外看影院.js"},
+{"key":"drpy_js_南柯电影网","name":"🎦南柯电影网","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/南柯电影网.js"},
+{"key":"drpy_js_酷6网","name":"🆒酷6网","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/酷6网.js"},
+{"key":"drpy_js_91free","name":"🃙91free","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/91free.js"},
+{"key":"drpy_js_六度TV","name":"📺️六度TV","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/六度TV.js"},
+{"key":"drpy_js_去看吧","name":"👁️去看吧","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/去看吧.js"},
 
 
-{"key":"drpy_js_孜然影视","name":" 🥩孜然影视","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/孜然影视.js"},
+
 {"key":"drpy_js_起飞影院","name":"🛩︎起飞影院","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/起飞影院.js"},
 {"key":"drpy_js_zxzjmtv","name":"🥭zxzjmtv","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/zxzjmtv.js"},
 {"key":"drpy_js_九酷","name":"🤠九酷","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/九酷.js"},
@@ -109,7 +124,6 @@
 {"key":"drpy_js_酷客影院","name":"🛳️酷客影院","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/酷客影院.js"},
 {"key":"drpy_js_奇优影院","name":"🥝奇优影院","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/奇优影院.js"},
 {"key":"drpy_js_美视网","name":"💵美视网","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/美视网.js"},
-
 {"key":"drpy_js_333影视","name":"3️⃣33影视","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/333影视.js"},
 {"key":"drpy_js_8号影院","name":"🎱影院","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/8号影院.js"},
 {"key":"drpy_js_我爱跟剧","name":"❤我爱跟剧","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/我爱跟剧.js"},
@@ -140,7 +154,6 @@
 {"key":"drpy_js_KOK影院","name":"👌KOK影院","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/KOK影院.js"},
 {"key":"drpy_js_KOK影视","name":"🆗KOK影视","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/KOK影视.js"},
 {"key":"drpy_js_我的哔哩","name":"🅱️我的哔哩","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/我的哔哩.js"},
-{"key":"drpy_js_动漫岛","name":"🚙动漫岛","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/动漫岛.js"},
 {"key":"drpy_js_l0l","name":"🤟🏻l0l","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/l0l.js"},
 {"key":"drpy_js_新安影院","name":"⛑新安影院","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/新安影院.js"},
 {"key":"drpy_js_萌番","name":"🦦萌番","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/萌番.js"},
@@ -159,7 +172,6 @@
 {"key":"drpy_js_100影院","name":"💯100影院","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/100影院.js"},
 {"key":"drpy_js_爱看剧影视","name":"🎦爱看剧影视","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/爱看剧影视.js"},
 {"key":"drpy_js_干饭影视","name":"🍚干饭影视","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/干饭影视.js"},
-{"key":"drpy_js_饭团影视","name":"🍚饭团影视","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/饭团影视.js"},
 {"key":"drpy_js_看片狂人","name":"🌬︎看片狂人","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/看片狂人.js"},
 {"key":"drpy_js_零度影视","name":"🌡零度影视","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/零度影视.js"},
 {"key":"drpy_js_楚门影院","name":"🥅楚门影院","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/楚门影院.js"},
@@ -248,7 +260,7 @@
 {"key":"drpy_js_种子音乐","name":"🌱种子音乐","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/种子音乐.js"},
 {"key":"drpy_js_海洋听书","name":"🎒海洋听书","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/海洋听书.js"},
 {"key":"drpy_js_音悦网","name":"🎶音悦网","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/音悦网.js"},
-
+{"key":"drpy_js_A8音乐","name":"🎶A8音乐","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/A8音乐.js"},
 
 //JS源开始========================================================================================================
 {"key":"drpy_js_豆瓣","name":"🎖豆瓣","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/豆瓣.js"},
@@ -467,7 +479,7 @@
       "ext": "https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/追剧喵.js"
     },
 
-{"key":"drpy_js_素白白","name":"🕵素白白🕵","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/素白白.js"},
+
 {"key":"drpy_js_麦豆","name":"🕵麦豆🕵","type": 3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/麦豆.js"},
 {"key":"drpy_js_麦豆com","name":"🕵麦豆com🕵","type": 3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/麦豆com.js"},
 {"key":"drpy_js_秋霞","name":"🕵秋霞🕵","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/秋霞.js"},
