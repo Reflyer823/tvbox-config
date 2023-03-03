@@ -239,7 +239,10 @@
 {"key":"drpy_js_幻听网听书","name":"🛸幻听网听书","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/幻听网听书.js"},
 {"key":"drpy_js_有声小说吧","name":"🔊有声小说吧","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/有声小说吧.js"},
 {"key":"drpy_js_听书网","name":"🙉听书网","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/听书网.js"},
-{"key":"drpy_js_海盗听书","name":"🏴‍☠海盗听书吧","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/海盗听书.js"},
+{"key":"drpy_js_海盗听书","name":"🏴‍☠海盗听书","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/海盗听书.js"},
+{"key":"drpy_js_六月听书","name":"6︎🈷听书","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/六月听书.js"},
+{"key":"drpy_js_博看听书","name":"👩🏻‍🎓博看听书","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/博看听书.js"},
+
 {"key":"drpy_js_蜻蜓FM","name":"📻️蜻蜓FM","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/蜻蜓FM.js"},
 {"key":"drpy_js_哔哩直播","name":"🚁哔哩直播","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/哔哩直播.js"},
 {"key":"drpy_js_斗鱼直播","name":"🚁斗鱼直播","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/斗鱼直播.js"},
