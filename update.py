@@ -2,6 +2,11 @@ import requests
 from Crypto.Cipher import AES
 
 
+CONFIG_URL = 'https://download.kstore.space/download/2863/01.txt'
+LIVE_URL = 'https://download.kstore.space/download/2863/live.txt'
+CUSTOM_LIVE_URL = 'https://cdn.jsdelivr.net/gh/Reflyer823/tvbox-config@master/live.txt'
+
+
 def get_json_str(content: str) -> str:
     assert(content[:4] == '2423')
     content = bytes.fromhex(content)
@@ -13,13 +18,22 @@ def get_json_str(content: str) -> str:
     return aes.decrypt(data).decode('utf8')
 
 
-res = requests.get('https://download.kstore.space/download/2863/01.txt')
+res = requests.get(CONFIG_URL)
 res.encoding = 'utf-8'
 res = get_json_str(res.text)
 lines = res.splitlines(keepends=True)
 for i, line in enumerate(lines):
-    if line.startswith('"lives"'):
-        lines[i] = '"lives":[{"name":"直播","type":0,"url":"https://cdn.jsdelivr.net/gh/Reflyer823/tvbox-config@master/live.txt"}],\n//' + line
+    if line.startswith('"lives"') and LIVE_URL in line:
+        lines[i] = line.replace(LIVE_URL, CUSTOM_LIVE_URL) + '//' + line
         break
 with open('main.json', 'w', encoding='utf-8', newline='\n') as f:
     f.writelines(lines)
+
+
+res = requests.get('https://download.kstore.space/download/2863/live.txt')
+res.encoding = 'utf-8'
+live_str = res.text
+with open('custom_live.txt', 'r', encoding='utf-8') as f:
+    live_str = f.read() + live_str
+with open('live.txt', 'w', encoding='utf-8', newline='\n') as f:
+    f.write(live_str)

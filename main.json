@@ -1,7 +1,7 @@
 //潇洒空间:https://cnvip.x10.mx/wp/
 {
 "spider":"https://download.kstore.space/download/2863/custom_spider.jar;md5;18b8df1e0f7813098c1e70979a264aad","warningText":"💕潇洒分享的接口，永久完全免费，切勿付费购买💕",
-"lives":[{"name":"直播","type":0,"url":"https://cdn.jsdelivr.net/gh/Reflyer823/tvbox-config@master/live.txt"}],
+"lives":[{"name":"live","type":0,"url":"https://cdn.jsdelivr.net/gh/Reflyer823/tvbox-config@master/live.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
 //"lives":[{"name":"live","type":0,"url":"https://download.kstore.space/download/2863/live.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
 //"clan://localhost/TVBOX/01.txt",
 "drives":[{"server":"","userName":"","password":"","type":"webdav"}],
