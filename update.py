@@ -15,7 +15,8 @@ def get_json_str(content: str) -> str:
     data = content[content.find(b'#$')+2:-13]
     iv = pad(content[-13:])
     aes = AES.new(key, AES.MODE_CBC, iv=iv)
-    return aes.decrypt(data).decode('utf8')
+    text = aes.decrypt(data).decode('utf8')
+    return text.replace('\x06', '')  # 不知道为什么文件末尾会有这个
 
 
 res = requests.get(CONFIG_URL)
@@ -30,7 +31,7 @@ with open('main.json', 'w', encoding='utf-8', newline='\n') as f:
     f.writelines(lines)
 
 
-res = requests.get('https://download.kstore.space/download/2863/live.txt')
+res = requests.get(LIVE_URL)
 res.encoding = 'utf-8'
 live_str = res.text
 with open('custom_live.txt', 'r', encoding='utf-8') as f:
