@@ -16,7 +16,7 @@ def get_json_str(content: str) -> str:
     iv = pad(content[-13:])
     aes = AES.new(key, AES.MODE_CBC, iv=iv)
     text = aes.decrypt(data).decode('utf8')
-    return text.replace('\x06', '')  # 不知道为什么文件末尾会有这个
+    return text[:text.rfind('}')+1]    # 不知道为什么文件末尾会有奇怪的字符
 
 
 res = requests.get(CONFIG_URL)
